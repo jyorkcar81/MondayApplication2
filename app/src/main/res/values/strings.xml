@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MondayApplication</string>
+    <string name="greeting">Welcome to CISP362</string>
 </resources>
